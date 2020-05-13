@@ -1,1 +1,3 @@
 node_modules/
+twilio.js
+service_account.json
